@@ -3,7 +3,7 @@
     --color2:#333;
     --bgColor1: #f0faff;
     --bgColor2:#001f3f;
-    --bgColor3:#e14f
+    --bgColor3:#a349;
     --fontFamily: "Cascadian Code", sans-serif;
 }
 
@@ -73,16 +73,16 @@ main{
     margin-bottom:30px;
 }
 #btn-texto:hover{/*hover: pseudoclasse que define que quando eu passar o mouse vai fazer tudo desse bloco*/
-    transform:translateY(-5px);
-    color:var(--color2);
-    background:var(--bgColor1);
-    font-weight:900;
+    transform:translateY(-0px); /*desloca o elemento (desabilitei)*/
+    color:var(--color1);
+    background:var(--bgColor3);
+    font-weight:500;
 }
 #saida{
     background:var(--bgColor1);
     padding:20px;
     border-radius:10px;
-    border-left: 5px solid purple;
+    border-left: 5px solid var(--bgColor3);
     min-height:100px;
     text-align:left;
     word-wrap:break-word; /*separa as palavras de maneira proporcional (espaçamento de palavras)*/
