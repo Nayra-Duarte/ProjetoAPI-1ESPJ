@@ -1,0 +1,53 @@
+# SprintWeb
+
+Projeto desenvolvido para a Sprint 3, do challenge do 1.°ano do curso de Engenharia de Software da FIAP, em parceria com a empresa JOVI.
+
+## Tecnologias utilizadas
+
+- React
+- Node.js
+- CSS3
+- React Router DOM (navegação entre páginas)
+- Vite 
+- ESLint 
+
+## Como instalar as dependências
+
+```bash
+# Clone o repositório por meio do terminal de comando
+git clone https://github.com/AmandaLourenco11/SprintWeb.git
+
+# Acesse a pasta do projeto
+cd SprintWeb
+
+# Instale as dependências
+npm install
+```
+
+## Como executar o projeto
+
+#Ainda dentro da pasta do projeto, execute o comando abaixo:
+```bash
+npm run dev
+```
+
+O projeto será executado em `http://localhost:5173`.
+
+Agora é só navegar e conhecer o ecossistema do JoviClass!
+
+## Usuários e senhas para teste
+
+O projeto não possui sistema de autenticação. A aplicação carrega direto na tela inicial, com dados fixos no código (usuário fictício "Helena") e o progresso salvo no localStorage do navegador.
+
+## Uso de Inteligência Artificial no projeto
+
+As ferrammentas de Inteligência Artificial foram utilizadas em pontos pontuais do desenvolvimento do projeto, principalmente para revisar erros de digitação no código e na documentação, além de auxiliar no entendimento de tecnologias que a equipe ainda não havia utilizado na prática anteriormente, necessárias para replicar o sistema proposto pela equipe, para o Challenge em parceiria com a JOVI, no React. O uso da IA serviu como apoio ao aprendizado e à revisão, e todo o código e conteúdo final foi escrito e validado pela equipe.
+
+
+## Link do Deploy (Vercel)
+
+[LINK_DO_DEPLOY_AQUI]
+
+---
+
+Desenvolvido por: 
